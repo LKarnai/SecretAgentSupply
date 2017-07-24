@@ -145,7 +145,7 @@ nav {
 
   .nav-bar.mobile nav {
     display: flex;
-}
+  }
 
   .product {
     flex-basis: 45%;
